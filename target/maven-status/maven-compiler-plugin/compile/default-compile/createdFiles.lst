@@ -1,0 +1,5 @@
+test\atomic\tAutomation\utils\Utils.class
+test\atomic\tAutomation\aplication\Director.class
+test\atomic\tAutomation\aplication\Movies.class
+test\atomic\tAutomation\App.class
+test\atomic\tAutomation\pages\GooglePage.class
