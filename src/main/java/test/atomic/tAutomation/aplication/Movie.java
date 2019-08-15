@@ -1,5 +1,13 @@
 package test.atomic.tAutomation.aplication;
 
+/**
+ * 
+ * @author Robson Rodrigues da Silva
+ * 		   Email: bobson278@gmail.com </br>
+ * 		   GitHub: https://github.com/Bobson360</br>
+ *
+ *	Classe Movie monta um objeto do tipo Movie contendo nome, data de lançamento e diretor
+ */
 public class Movie {
 	
 	private String name;

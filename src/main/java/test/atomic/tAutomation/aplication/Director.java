@@ -3,6 +3,15 @@ package test.atomic.tAutomation.aplication;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * @author Robson Rodrigues da Silva
+ * 		   Email: bobson278@gmail.com </br>
+ * 		   GitHub: https://github.com/Bobson360</br>
+ * 
+ * Classe Director monta um objeto do tipo Director, contendo nome, data de nascimento e lista de filmes
+ *
+ */
 public class Director {
 	
 	private String name;
